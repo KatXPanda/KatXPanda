@@ -28,13 +28,6 @@ A smart budgeting/expense-tracking project focused on helping users manage spend
 
 ---
 
-## 📈 GitHub Stats
-
-![KatXPanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatXPanda&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KatXPanda&layout=compact&theme=radical)
-
----
-
 ## 🌐 Let’s Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](http://katxpanda.github.io/Myportfolio/)
