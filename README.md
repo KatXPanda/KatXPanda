@@ -30,5 +30,5 @@ A smart budgeting/expense-tracking project focused on helping users manage spend
 
 ## 🌐 Let’s Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](http://katxpanda.github.io/Myportfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://katxpanda.github.io/MyPortfolio/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:k_matabane@icloud.com)
